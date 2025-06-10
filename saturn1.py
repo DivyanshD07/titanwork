@@ -2,4 +2,5 @@ Saturn has many moons
 Mimas
 Dione
 Rhea
-Hyperian
+Tethys
+Phoebe
